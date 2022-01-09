@@ -1,8 +1,7 @@
 # IOSD-Winterlympic-Hackathon_2022
+⚡ 
 Free Resume Maker IOSD-Winterlympic Website
 
-
-##⚡⚡⚡ IOSD-Winterlympic-Hackathon_2022 ⚡⚡⚡
 ![riri](https://user-images.githubusercontent.com/78801686/148670644-79812054-dcc0-402f-858b-b18296ff8b9f.jpeg)
 
 
