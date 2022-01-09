@@ -1,1 +1,1 @@
-## IOSD-Winterlympic-Hackathon_2021
+## IOSD-Winterlympic-Hackathon_2022
